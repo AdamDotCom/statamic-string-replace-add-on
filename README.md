@@ -9,4 +9,4 @@ Result:
   3333334444
  ```
  
- Copy pi.string.php it the _add-ons/string/ directory.
+ Copy pi.string.php into the _add-ons/string/ directory.
