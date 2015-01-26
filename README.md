@@ -10,3 +10,17 @@ Result:
  ```
  
  Copy pi.string.php into the _add-ons/string/ directory.
+
+ ## Trim
+
+ Usage:
+ ```
+ {{ string:trim string='part-to-live/part-to-die' trim_at='/' }}
+ ```
+
+ Result:
+ ```
+ part-to-live
+ ```
+ 
+ Copy pi.string.php into the _add-ons/string/ directory.
