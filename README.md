@@ -11,7 +11,8 @@ Result:
  
  Copy pi.string.php into the _add-ons/string/ directory.
 
- ## Trim
+Trim
+----
 
  Usage:
  ```
